@@ -29,10 +29,10 @@ Berdasarkan alasan-alasan sebelumnya dan seberapa relate mahasiswa dengan laptop
 <p align="justify">
 Berdasarkan dataset tersebut, dapat dilihat bahwa salah satu model machine learning yang dapat dibuat adalah model regresi. Hal ini disebabkan karena salah satu label yang dapat dijadikan sebagai label target merupakan label Price_euros dimana kolom tersebut berisikan data harga yang bernilai kontinu. Sehingga, dengan menggunakan dataset tersebut, maka diputuskan akan dibuat sebuah model regresi untuk memprediksi harga suatu laptop berdasarkan atribut-atribut lainnya.
 	Untuk membuat model prediksinya, maka akan digunakan berbagai model untuk mengetahui model mana yang dapat memprediksi harga laptop paling baik. Adapun model yang akan digunakan adalah :
-Linear Model
-Decision Tree
-Random Forest
-XGBoost
+- Linear Model
+- Decision Tree
+- Random Forest
+- XGBoost
 
 Setelah membuat model-model tersebut, setiap model nantinya akan diuji akurasinya. Model dengan akurasi terbaik akan dipilih sebagai model akhir yang digunakan untuk memprediksi harga laptop nantinya.
 </p>

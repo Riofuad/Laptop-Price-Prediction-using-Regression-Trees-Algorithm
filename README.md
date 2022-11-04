@@ -44,7 +44,7 @@ Setelah membuat model-model tersebut, setiap model nantinya akan diuji akurasiny
 ## Result
 <p align="justify">
 	
-	Hasil training: 
+	Hasil testing: 
 	1. Model Linear Ridge Regression menghasilkan masing-masing r2 score 0.671, MAE 52% dan MSE 55%. 
 	2. Model Decision Tree menghasilkan r2 score 0.728, MAE 45% dan MSE 46%. 
 	3. Model Random Forest menghasilkan masing-masing r2 score 0.718, MAE 43% dan MSE 47%. 

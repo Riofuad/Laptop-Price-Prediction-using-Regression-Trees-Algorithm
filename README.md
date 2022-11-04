@@ -5,7 +5,8 @@
 - H071201041 | Muhammad Azhar Tawakkal
 - H071201045 | Faizah Mappanyompa
 - H071201050 | Iman Mustika Ismail
-
+- 
+<p align="justify">
 ## Dataset Knowledge
 Dataset yang akan digunakan dalam pembuatan model adalah dataset ‘Laptop Price’ yang disusun oleh seorang freelance asal Turki yang bergerak di bidang Data Science yang bernama Muhammet Varlı. Dataset tersebut memiliki skor usability sebesar 10.0 yang artinya dataset tersebut memiliki informasi yang sangat lengkap. Selain itu, dataset ini juga telah di-upvote oleh 99 orang dan telah memperoleh bronze medal dalam hal popularitas dataset. Dataset ini dapat diperoleh dari link https://www.kaggle.com/datasets/muhammetvarl/laptop-price. Dataset ini berisikan mengenai data spesifikasi laptop beserta harganya. Dataset ini terdiri atas beberapa atribut:
 Company. Atribut ini berisikan mengenai nama merek atau perusahaan yang menghasilkan laptop tersebut. Atribut ini berisikan data yang bertipe String atau dalam IPYNB bertipe Object. Contoh data atribut ini seperti Apple, Asus, Lenovo, dsb. 
@@ -41,4 +42,4 @@ Dataset yang digunakan adalah dataset 'Laptop Price' untuk memprediksi harga lap
 
 ## Recomendation
 Untuk penelitian selanjutnya dapat dilakukan data cleaning yang lebih akurat, menggunakan algoritma yang lebih baik dengan akurasi yang lebih tinggi untuk meningkatkan kinerja model. 
-
+</p>

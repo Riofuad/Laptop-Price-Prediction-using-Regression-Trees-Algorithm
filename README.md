@@ -9,6 +9,7 @@
 ## Dataset Knowledge
 <p align="justify">
 Dataset yang akan digunakan dalam pembuatan model adalah dataset ‘Laptop Price’ yang disusun oleh seorang freelance asal Turki yang bergerak di bidang Data Science yang bernama Muhammet Varlı. Dataset tersebut memiliki skor usability sebesar 10.0 yang artinya dataset tersebut memiliki informasi yang sangat lengkap. Selain itu, dataset ini juga telah di-upvote oleh 99 orang dan telah memperoleh bronze medal dalam hal popularitas dataset. Dataset ini dapat diperoleh dari link https://www.kaggle.com/datasets/muhammetvarl/laptop-price. Dataset ini berisikan mengenai data spesifikasi laptop beserta harganya. Dataset ini terdiri atas beberapa atribut:
+	
 	1. Company. Atribut ini berisikan mengenai nama merek atau perusahaan yang menghasilkan laptop tersebut. Atribut ini berisikan data yang bertipe String atau dalam IPYNB bertipe Object. Contoh data atribut ini seperti Apple, Asus, Lenovo, dsb. 
 	2. Product. Atribut ini berisikan model atau nama dari suatu laptop. Atribut ini berisikan data yang bertipe String atau dalam IPYNB bertipe object. Contoh data atribut ini seperti Macbook Pro, Legion Y520-15IKBN, Aspire 3, dsb.
 	3. TypeName. Atribut ini berisikan tipe dari suatu laptop. Atribut ini berisikan data yang bertipe String atau dalam IPYNB bertipe Object. Atribut ini hanya terdiri atas 6 nilai, yaitu Notebook, Gaming, Ultrabook, 2 in 1 convertible, Workstation, dan Netbook.

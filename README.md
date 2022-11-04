@@ -32,7 +32,7 @@ Berdasarkan alasan-alasan sebelumnya dan seberapa relate mahasiswa dengan laptop
 Berdasarkan dataset tersebut, dapat dilihat bahwa salah satu model machine learning yang dapat dibuat adalah model regresi. Hal ini disebabkan karena salah satu label yang dapat dijadikan sebagai label target merupakan label Price_euros dimana kolom tersebut berisikan data harga yang bernilai kontinu. Sehingga, dengan menggunakan dataset tersebut, maka diputuskan akan dibuat sebuah model regresi untuk memprediksi harga suatu laptop berdasarkan atribut-atribut lainnya.
 	Untuk membuat model prediksinya, maka akan digunakan berbagai model untuk mengetahui model mana yang dapat memprediksi harga laptop paling baik. 
 	
-	Model yang akan digunakan adalah:
+	Model yang digunakan adalah:
 	1. Linear Model
 	2. Decision Tree
 	3. Random Forest
@@ -43,7 +43,12 @@ Setelah membuat model-model tersebut, setiap model nantinya akan diuji akurasiny
 
 ## Result
 <p align="justify">
-Hasil training dari model Linear Ridge Regression menghasilkan masing-masing r2 score 0.671, MAE 52% dan MSE 55%. Hasil training dari model Decision Tree menghasilkan r2 score 0.728, MAE 45% dan MSE 46%. Random Forest menghasilkan masing-masing r2 score 0.718, MAE 43% dan MSE 47%. XGBoost menghasilkan r2 score 0.803, MAE 38% dan MSE 33%. 
+	
+	Hasil training: 
+	1. Model Linear Ridge Regression menghasilkan masing-masing r2 score 0.671, MAE 52% dan MSE 55%. 
+	2. Model Decision Tree menghasilkan r2 score 0.728, MAE 45% dan MSE 46%. 
+	3. Model Random Forest menghasilkan masing-masing r2 score 0.718, MAE 43% dan MSE 47%. 
+	4. Model XGBoost menghasilkan r2 score 0.803, MAE 38% dan MSE 33%. 
 </p>
 
 ## Conclusion
